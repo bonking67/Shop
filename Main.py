@@ -1,3 +1,5 @@
+# By Lucas Liu
+
 # We want to simulate the process of a customer purchasing items from your store (the merchant) 
 # We want them to be able to purchase multiple items, calculate the total cost (including any discounts), and get an itemized receipt
 # In this project: input, dictionaries, lists, loops, conditionals (if statements)
